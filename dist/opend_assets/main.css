@@ -26,11 +26,6 @@ a {
   padding: 50px 50px 50px 100px;
 }
 
-.viewer {
-  height: 100%;
-  image-rendering: pixelated;
-}
-
 .App {
   color: #fcfcfd;
   text-align: center;
@@ -178,6 +173,11 @@ body {
 }
 .Typography-gutterBottom {
   margin-bottom: 0.35em;
+}
+
+.bottom-space {
+  margin-top: -7vh;
+  margin-bottom: 1vh;
 }
 
 .grid-container {
